@@ -1,4 +1,4 @@
-D-Lab Git Fundamentals Workshop
+Git Fundamentals Workshop
 ===============================
 
 A starting point for discovering the wonderful world of Git and GitHub in the context of Research Workflows.
@@ -72,10 +72,3 @@ Software Carpentry tutorial: https://swcarpentry.github.io/git-novice/
 
 Flight Rules are the hard-earned body of knowledge recorded in manuals that list, step-by-step, what to do if X occurs, and why. Essentially, they are extremely detailed, scenario-specific standard operating procedures.
 
-## Local Git expositors at UC Berkeley
-
- - A problem-focused exploration of git features is available in @jkitzes' [Data
-   Science Lessons](http://jkitzes.github.io/datasci-lessons/)
- - [An IPython
-   notebook](https://github.com/fperez/reprosw/blob/master/Version%20Control.ipynb)
-   (of course!) from @fperez.
